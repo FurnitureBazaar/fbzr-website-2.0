@@ -1,0 +1,711 @@
+{
+  "brand": "Furniture Bazaar",
+  "source": "Furniture_Bazaar_FAQ.pdf",
+  "source_note": "The PDF states that these are sample answers and should be updated according to Furniture Bazaar's actual delivery, warranty, exchange, cancellation, refund, installation, and payment policies before publishing.",
+  "assistant_rules": [
+    "Use the FAQ content as the source of truth.",
+    "Do not invent prices, discounts, delivery dates, warranty periods, availability, fees, refund amounts, or policy exceptions.",
+    "When the FAQ says availability, pricing, charges, timelines, or coverage may vary, preserve that qualification.",
+    "If the FAQ does not answer a question, direct the customer to Furniture Bazaar's customer-care team rather than guessing.",
+    "Use a warm, professional, conversational customer-support tone."
+  ],
+  "categories": [
+    "Additional Useful FAQs",
+    "Customer / Showroom Support",
+    "Customization",
+    "Delivery",
+    "General Questions",
+    "Installation & Assembly",
+    "Ordering & Payment",
+    "Quality & Warranty"
+  ],
+  "faq_count": 79,
+  "faqs": [
+    {
+      "id": "general_01",
+      "category": "General Questions",
+      "question": "What types of furniture does Furniture Bazaar offer?",
+      "answer": "We offer a wide range of furniture, including sofas, beds, wardrobes, dining tables, sofa-cum-beds, mattresses, and other home furniture.",
+      "search_variations": [
+        "what furniture do you sell",
+        "what products do you have",
+        "what kind of furniture is available"
+      ]
+    },
+    {
+      "id": "general_02",
+      "category": "General Questions",
+      "question": "Can I visit the showroom before purchasing?",
+      "answer": "Yes, customers are welcome to visit our showroom and personally check the design, quality, comfort, and finish of our products.",
+      "search_variations": [
+        "can I visit the store",
+        "can I come to the showroom",
+        "can I see furniture in person"
+      ]
+    },
+    {
+      "id": "general_03",
+      "category": "General Questions",
+      "question": "Are all products displayed on the website available in the showroom?",
+      "answer": "Product availability may vary depending on current stock. We recommend confirming availability before visiting or placing an order.",
+      "search_variations": [
+        "is website stock available in showroom",
+        "is everything online available in store",
+        "do you have this product in the showroom"
+      ]
+    },
+    {
+      "id": "general_04",
+      "category": "General Questions",
+      "question": "Do you have different furniture designs and styles?",
+      "answer": "Yes, we offer a variety of designs, colours, fabrics, sizes, and styles to suit different preferences and home interiors.",
+      "search_variations": []
+    },
+    {
+      "id": "general_05",
+      "category": "General Questions",
+      "question": "Can I see a product before purchasing it?",
+      "answer": "Yes, you can visit our showroom to view and inspect available products before making your purchase.",
+      "search_variations": []
+    },
+    {
+      "id": "general_06",
+      "category": "General Questions",
+      "question": "Can I choose my own fabric and colour?",
+      "answer": "Yes, for products that support customization. You can select from the available fabric, leather, colour, and material options. For additional choices, you can contact our team for assistance. Please note that colours may appear slightly different on different screens and under different lighting conditions.",
+      "search_variations": [
+        "can I choose sofa colour",
+        "can I select fabric",
+        "can I pick my own upholstery"
+      ]
+    },
+    {
+      "id": "general_07",
+      "category": "General Questions",
+      "question": "What happens after I place an order?",
+      "answer": "After placing your order: 1. You receive an order confirmation. 2. Our team may contact you to confirm the order and customization details. 3. For customized products, production begins after the specifications are finalized. 4. The furniture is manufactured/prepared. 5. The order is dispatched. 6. Our delivery team coordinates delivery with you. 7. Installation is completed where applicable.",
+      "search_variations": []
+    },
+    {
+      "id": "ordering_01",
+      "category": "Ordering & Payment",
+      "question": "How can I place an order on the Furniture Bazaar website?",
+      "answer": "Choose your furniture, select the available options such as size, fabric, colour, and configuration, and click “Add to Cart” or “Buy Now.” Enter your delivery details, select your payment method, and complete the order.",
+      "search_variations": [
+        "how do I buy furniture",
+        "how can I order online",
+        "how to purchase"
+      ]
+    },
+    {
+      "id": "ordering_02",
+      "category": "Ordering & Payment",
+      "question": "Can I place an order through WhatsApp or by phone?",
+      "answer": "Yes. You can contact our team through WhatsApp or phone for assistance with product selection, customization, quotations, and orders. For customized furniture, our team may confirm all specifications with you before the order is sent for production.",
+      "search_variations": [
+        "can I order on WhatsApp",
+        "can I order by phone",
+        "can I buy through WhatsApp"
+      ]
+    },
+    {
+      "id": "ordering_03",
+      "category": "Ordering & Payment",
+      "question": "What payment methods do you accept?",
+      "answer": "We accept the payment methods available through our online payment gateway, which may include: UPI, Credit cards, Debit cards, Net banking, Wallets, and EMI or other payment options, where available.",
+      "search_variations": [
+        "do you take UPI",
+        "can I pay by card",
+        "what payment options are there"
+      ]
+    },
+    {
+      "id": "ordering_04",
+      "category": "Ordering & Payment",
+      "question": "Is online payment secure?",
+      "answer": "Yes. Online payments are processed through our authorized payment gateway using secure payment infrastructure. Furniture Bazaar will never ask you to share your OTP, PIN, CVV, password, or banking credentials with our staff.",
+      "search_variations": []
+    },
+    {
+      "id": "ordering_05",
+      "category": "Ordering & Payment",
+      "question": "Can I pay a partial amount or advance for customized furniture?",
+      "answer": "For selected customized or made-to-order furniture, an advance or booking payment may be available. The required advance amount and balance-payment schedule will be communicated before the order is confirmed.",
+      "search_variations": []
+    },
+    {
+      "id": "ordering_06",
+      "category": "Ordering & Payment",
+      "question": "Will I receive an order confirmation after payment?",
+      "answer": "Yes. After a successful order, you will receive an order confirmation through the contact details provided during checkout. For customized furniture, our team may contact you to confirm the final specifications before production begins.",
+      "search_variations": []
+    },
+    {
+      "id": "ordering_07",
+      "category": "Ordering & Payment",
+      "question": "What happens if my payment is successful but I don't receive an order confirmation?",
+      "answer": "Please do not make another payment immediately. Contact our customer-support team with your payment reference/transaction details. We will verify the transaction and confirm your order status.",
+      "search_variations": []
+    },
+    {
+      "id": "ordering_08",
+      "category": "Ordering & Payment",
+      "question": "Can I change my order after placing it?",
+      "answer": "Changes may be possible if the order has not entered production or processing. For customized furniture, changes to dimensions, fabric, colour, configuration, or other specifications may not be possible once manufacturing has started. Please contact us as soon as possible if you need to make a change.",
+      "search_variations": [
+        "can I edit my order",
+        "can I change sofa colour after ordering",
+        "can I modify my order"
+      ]
+    },
+    {
+      "id": "ordering_09",
+      "category": "Ordering & Payment",
+      "question": "Can I cancel my order after making the payment?",
+      "answer": "Cancellation depends on the type and stage of your order. Standard orders may be eligible for cancellation before processing, manufacturing, or dispatch. Customized or made-to-order furniture generally cannot be cancelled once production has started, subject to our Cancellation & Refund Policy and applicable law.",
+      "search_variations": [
+        "can I cancel after payment",
+        "how do I cancel my order",
+        "can customized furniture be cancelled"
+      ]
+    },
+    {
+      "id": "ordering_10",
+      "category": "Ordering & Payment",
+      "question": "Will I receive an invoice for my purchase?",
+      "answer": "Yes. An invoice will be provided for your purchase with the applicable product, pricing, tax, and order details. For GST-registered customers, please provide the required billing information and GSTIN during the ordering process where applicable.",
+      "search_variations": []
+    },
+    {
+      "id": "delivery_01",
+      "category": "Delivery",
+      "question": "How long does delivery take?",
+      "answer": "Delivery time depends on product availability, order type, and delivery location. The estimated delivery timeline will be communicated when your order is confirmed.",
+      "search_variations": [
+        "when will my furniture arrive",
+        "what is the delivery time",
+        "how many days for delivery"
+      ]
+    },
+    {
+      "id": "delivery_02",
+      "category": "Delivery",
+      "question": "Do you provide home delivery?",
+      "answer": "Yes, home delivery is available in selected locations. Availability and delivery charges may vary depending on the location.",
+      "search_variations": [
+        "do you deliver to home",
+        "is home delivery available"
+      ]
+    },
+    {
+      "id": "delivery_03",
+      "category": "Delivery",
+      "question": "Is home delivery free?",
+      "answer": "Free delivery may be available for selected locations or under specific offers. Delivery charges, if applicable, will be communicated before confirming the order.",
+      "search_variations": [
+        "is delivery free",
+        "do you charge for delivery",
+        "what are delivery charges"
+      ]
+    },
+    {
+      "id": "delivery_04",
+      "category": "Delivery",
+      "question": "Do you deliver to my location?",
+      "answer": "Delivery availability depends on your location. Please share your address with our team to confirm delivery availability.",
+      "search_variations": [
+        "do you deliver to my city",
+        "can you deliver to my address"
+      ]
+    },
+    {
+      "id": "delivery_05",
+      "category": "Delivery",
+      "question": "Can I track my delivery?",
+      "answer": "You can contact our customer-care team for updates regarding your order and delivery status.",
+      "search_variations": [
+        "where is my order",
+        "how can I track delivery"
+      ]
+    },
+    {
+      "id": "delivery_06",
+      "category": "Delivery",
+      "question": "Can I inspect the furniture at the time of delivery?",
+      "answer": "Yes, customers are advised to inspect the product for any visible damage at the time of delivery.",
+      "search_variations": []
+    },
+    {
+      "id": "delivery_07",
+      "category": "Delivery",
+      "question": "What should I do if my furniture arrives damaged?",
+      "answer": "Please inform our delivery team or customer-care team immediately and provide photographs or videos of the damage, if required.",
+      "search_variations": [
+        "what if sofa arrives damaged",
+        "furniture damaged in delivery",
+        "damaged product received"
+      ]
+    },
+    {
+      "id": "installation_01",
+      "category": "Installation & Assembly",
+      "question": "Do you provide furniture installation services?",
+      "answer": "Installation or assembly services may be available for selected products.",
+      "search_variations": []
+    },
+    {
+      "id": "installation_02",
+      "category": "Installation & Assembly",
+      "question": "Is installation free of charge?",
+      "answer": "Installation charges may vary depending on the product and order. Any applicable charges will be communicated before the service.",
+      "search_variations": []
+    },
+    {
+      "id": "installation_03",
+      "category": "Installation & Assembly",
+      "question": "Who will assemble my bed or wardrobe?",
+      "answer": "For applicable products, assembly may be carried out by our delivery or installation team.",
+      "search_variations": []
+    },
+    {
+      "id": "installation_04",
+      "category": "Installation & Assembly",
+      "question": "Do you deliver furniture to upper floors?",
+      "answer": "Upper-floor delivery depends on factors such as lift availability, staircase access, building conditions, and product size.",
+      "search_variations": []
+    },
+    {
+      "id": "warranty_01",
+      "category": "Quality & Warranty",
+      "question": "What materials are used in your furniture?",
+      "answer": "The materials used vary depending on the product and model. Specific material details can be confirmed before purchase.",
+      "search_variations": []
+    },
+    {
+      "id": "warranty_02",
+      "category": "Quality & Warranty",
+      "question": "Is your furniture durable?",
+      "answer": "We focus on providing quality furniture, while durability also depends on the product, usage, care, and maintenance.",
+      "search_variations": []
+    },
+    {
+      "id": "warranty_03",
+      "category": "Quality & Warranty",
+      "question": "Do you provide a warranty?",
+      "answer": "Warranty coverage may be available on selected products. The warranty period and coverage vary depending on the product.",
+      "search_variations": [
+        "is there a warranty",
+        "how long is warranty",
+        "do sofas have warranty"
+      ]
+    },
+    {
+      "id": "warranty_04",
+      "category": "Quality & Warranty",
+      "question": "What does the warranty cover?",
+      "answer": "Warranty coverage is product-specific and may cover manufacturing defects or specified components, subject to the applicable warranty terms.",
+      "search_variations": []
+    },
+    {
+      "id": "warranty_05",
+      "category": "Quality & Warranty",
+      "question": "Does the warranty cover accidental damage?",
+      "answer": "Accidental damage is generally not covered under standard warranty terms. Please check the specific warranty conditions for your product.",
+      "search_variations": []
+    },
+    {
+      "id": "warranty_06",
+      "category": "Quality & Warranty",
+      "question": "How should I maintain my furniture?",
+      "answer": "Follow the recommended cleaning and maintenance instructions for your specific furniture material and avoid using harsh chemicals.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_01",
+      "category": "Customization",
+      "question": "What types of furniture does Furniture Bazaar offer?",
+      "answer": "We offer a wide range of furniture, including sofas, sectional sofas, recliners, chairs, ottomans, sofa beds, coffee tables, side tables, and other furniture for homes and commercial spaces.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_02",
+      "category": "Customization",
+      "question": "Do you manufacture your own sofas?",
+      "answer": "Yes. Furniture Bazaar manufactures a range of sofas in-house, allowing us to offer customization in size, configuration, upholstery, colour, and selected design details.",
+      "search_variations": [
+        "are sofas made by you",
+        "do you manufacture sofas",
+        "are your sofas in-house"
+      ]
+    },
+    {
+      "id": "custom_03",
+      "category": "Customization",
+      "question": "Can I customize a sofa according to my requirements?",
+      "answer": "Yes. Selected sofa models can be customized according to your requirements, including size, seating configuration, fabric, colour, cushioning, legs, and other available options.",
+      "search_variations": [
+        "can I customize my sofa",
+        "can sofa be made to order",
+        "can I personalize sofa"
+      ]
+    },
+    {
+      "id": "custom_04",
+      "category": "Customization",
+      "question": "Can I order a sofa in a different size?",
+      "answer": "Yes. For selected models, we can manufacture sofas in customized dimensions. Please contact our team with your required length, depth, height, or room dimensions for a quotation.",
+      "search_variations": [
+        "can sofa be made bigger",
+        "can you make sofa smaller",
+        "can I change sofa dimensions"
+      ]
+    },
+    {
+      "id": "custom_05",
+      "category": "Customization",
+      "question": "Can I customize the number of seats?",
+      "answer": "Yes. Depending on the sofa design, you may be able to choose configurations such as 2-seater, 3-seater, 4-seater, L-shape, U-shape, or other configurations.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_06",
+      "category": "Customization",
+      "question": "Can I customize the shape or configuration of my sofa?",
+      "answer": "Yes, selected designs can be customized to suit your room layout. Our design team can help you select the most suitable configuration based on your available space.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_07",
+      "category": "Customization",
+      "question": "Can I choose the fabric for my sofa?",
+      "answer": "Yes. We offer a selection of upholstery fabrics for eligible products. Available options may include different colours, textures, patterns, and fabric types.",
+      "search_variations": [
+        "can I select sofa fabric",
+        "what fabric choices are available"
+      ]
+    },
+    {
+      "id": "custom_08",
+      "category": "Customization",
+      "question": "Can I choose leather or leatherette upholstery?",
+      "answer": "Yes, where available for the selected model. You can choose from the available leather, leatherette, or other upholstery options, subject to availability and pricing.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_09",
+      "category": "Customization",
+      "question": "Can I choose a specific colour?",
+      "answer": "Yes. For customizable products, you can select from the available colour options. Custom colours may be available for selected fabrics or materials.",
+      "search_variations": [
+        "can I choose sofa colour",
+        "can I get a custom colour"
+      ]
+    },
+    {
+      "id": "custom_10",
+      "category": "Customization",
+      "question": "Will the colour of the furniture look exactly the same as shown on the website?",
+      "answer": "Colours may appear slightly different depending on your screen, lighting, photography, and the natural characteristics of the fabric or material. We recommend checking an actual material sample before finalizing an important colour selection.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_11",
+      "category": "Customization",
+      "question": "Can I see fabric samples before placing my order?",
+      "answer": "Yes. Depending on your location and the product, you can visit our showroom to view fabric samples and other materials. Our team can also help you select the most suitable option.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_12",
+      "category": "Customization",
+      "question": "Can I order a fabric sample?",
+      "answer": "Fabric sample availability depends on the material and location. Please contact our team to check whether samples can be arranged for your selected product.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_13",
+      "category": "Customization",
+      "question": "Can I choose the colour and finish of the sofa legs?",
+      "answer": "For selected sofa models, yes. Available leg materials, colours, and finishes depend on the design. Our team can provide the available options for your chosen model.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_14",
+      "category": "Customization",
+      "question": "Can I customize the cushioning of my sofa?",
+      "answer": "Selected sofa models may offer different cushioning or comfort options. Our team can explain the available foam, cushioning, and comfort choices for the particular model.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_15",
+      "category": "Customization",
+      "question": "Can I choose a softer or firmer sofa?",
+      "answer": "Yes, where the design and construction allow customization. You can discuss your preferred comfort level with our team before the sofa goes into production.",
+      "search_variations": [
+        "can I make sofa softer",
+        "can I choose firm sofa",
+        "can I choose comfort level"
+      ]
+    },
+    {
+      "id": "custom_16",
+      "category": "Customization",
+      "question": "What type of foam do you use in your sofas?",
+      "answer": "The foam and cushioning used depend on the model and design. The specifications may vary according to the required comfort, support, durability, and construction of the sofa.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_17",
+      "category": "Customization",
+      "question": "Can I customize the depth of the sofa?",
+      "answer": "For selected models, yes. Customized depth may be possible depending on the sofa's design and construction. Please contact our team with your room requirements.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_18",
+      "category": "Customization",
+      "question": "Can I customize the height of the sofa?",
+      "answer": "Selected models can be customized in height, subject to design and manufacturing requirements. Our team can advise whether your preferred dimensions are suitable for the chosen model.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_19",
+      "category": "Customization",
+      "question": "Can I customize the armrest design or size?",
+      "answer": "For selected sofa models, certain design elements such as armrest size or style may be customizable. The available options depend on the construction of the particular model.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_20",
+      "category": "Customization",
+      "question": "Can I add or remove a chaise from an L-shaped sofa?",
+      "answer": "For selected sectional and L-shaped sofas, the configuration may be customizable. Depending on the design, you may be able to choose the chaise position or configuration.",
+      "search_variations": [
+        "can I add chaise",
+        "can chaise be removed",
+        "can I change L sofa configuration"
+      ]
+    },
+    {
+      "id": "custom_21",
+      "category": "Customization",
+      "question": "Can I choose the side of the chaise?",
+      "answer": "Yes, for selected L-shaped and sectional sofas. Depending on the model, the chaise may be available on the left or right side. Please confirm the orientation before placing a customized order.",
+      "search_variations": [
+        "can chaise be on left",
+        "can chaise be on right",
+        "which side can chaise go"
+      ]
+    },
+    {
+      "id": "custom_22",
+      "category": "Customization",
+      "question": "Can I order a sofa specifically for my living-room layout?",
+      "answer": "Yes. Our team can help you select a suitable sofa size and configuration based on your room dimensions and layout. We recommend providing accurate room measurements, photographs, or a floor plan where possible.",
+      "search_variations": [
+        "can you make sofa for my room",
+        "which sofa fits my living room",
+        "can you recommend sofa for my layout"
+      ]
+    },
+    {
+      "id": "custom_23",
+      "category": "Customization",
+      "question": "Can I send you my room measurements for a sofa recommendation?",
+      "answer": "Yes. You can share your room dimensions, photographs, videos, or floor plan with our team. We can help you identify suitable sofa sizes and configurations.",
+      "search_variations": [
+        "can I send room measurements",
+        "can I share room dimensions",
+        "can you recommend from measurements"
+      ]
+    },
+    {
+      "id": "custom_24",
+      "category": "Customization",
+      "question": "Can I customize a sofa based on a design I have seen elsewhere?",
+      "answer": "You can share reference images or design ideas with our team. We can discuss whether a similar design or concept can be manufactured and provide a quotation based on the required specifications.",
+      "search_variations": [
+        "can you make a sofa like this picture",
+        "can I share a reference design",
+        "can you copy a sofa design"
+      ]
+    },
+    {
+      "id": "custom_25",
+      "category": "Customization",
+      "question": "Can I customize an existing Furniture Bazaar design?",
+      "answer": "Yes. Selected Furniture Bazaar designs can be customized according to available options such as dimensions, configuration, fabric, colour, and other design elements.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_26",
+      "category": "Customization",
+      "question": "Can I combine different fabrics or colours on one sofa?",
+      "answer": "For selected designs, yes. You may be able to use different fabrics or colours on different sections of the sofa. Availability and additional charges may apply.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_27",
+      "category": "Customization",
+      "question": "Can I add matching cushions to my sofa?",
+      "answer": "Yes. Matching or coordinating cushions may be available for selected sofas. You can ask our team about cushion size, fabric, filling, and quantity options.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_28",
+      "category": "Customization",
+      "question": "Can I order matching furniture with my sofa?",
+      "answer": "Yes. Depending on the collection, you may be able to order matching chairs, ottomans, stools, coffee tables, side tables, or other furniture pieces.",
+      "search_variations": []
+    },
+    {
+      "id": "custom_29",
+      "category": "Customization",
+      "question": "How do I know which sofa size is right for my room?",
+      "answer": "Consider the available floor space, wall dimensions, entrance and doorway sizes, walking space, and the number of people who will regularly use the sofa. Our team can help you select a suitable size based on your room measurements.",
+      "search_variations": [
+        "what sofa size should I get",
+        "how do I choose sofa size",
+        "what size sofa fits my room"
+      ]
+    },
+    {
+      "id": "custom_30",
+      "category": "Customization",
+      "question": "How do I place an order for a customized sofa?",
+      "answer": "Select the product you are interested in and contact our team with your customization requirements. We will confirm the available options, specifications, pricing, and estimated manufacturing timeline before your order is finalized. For customized orders, we recommend confirming all dimensions, fabric, colour, configuration, and other specifications before production begins.",
+      "search_variations": [
+        "how do I order a custom sofa",
+        "how can I get customized sofa",
+        "how to place customized furniture order"
+      ]
+    },
+    {
+      "id": "support_01",
+      "category": "Customer / Showroom Support",
+      "question": "How can I contact Furniture Bazaar?",
+      "answer": "You can contact us through our phone number, WhatsApp, email, or by visiting our showroom.",
+      "search_variations": []
+    },
+    {
+      "id": "support_02",
+      "category": "Customer / Showroom Support",
+      "question": "Can I get product details on WhatsApp?",
+      "answer": "Yes, you can contact us on WhatsApp to enquire about product availability, prices, photos, specifications, and other details.",
+      "search_variations": [
+        "can I ask on WhatsApp",
+        "can I get price on WhatsApp",
+        "can you send product details on WhatsApp"
+      ]
+    },
+    {
+      "id": "support_03",
+      "category": "Customer / Showroom Support",
+      "question": "Do I need an appointment to visit the showroom?",
+      "answer": "Generally, an appointment is not required for a showroom visit. However, an appointment may be helpful for detailed product or customization consultations.",
+      "search_variations": [
+        "do I need showroom appointment",
+        "can I walk in",
+        "is appointment required"
+      ]
+    },
+    {
+      "id": "support_04",
+      "category": "Customer / Showroom Support",
+      "question": "Can I request product photos or videos on WhatsApp?",
+      "answer": "Yes, you can contact our team on WhatsApp to request available product photos or videos.",
+      "search_variations": [
+        "can you send sofa photos",
+        "can I get videos on WhatsApp"
+      ]
+    },
+    {
+      "id": "support_05",
+      "category": "Customer / Showroom Support",
+      "question": "What if I cannot find the information I need on the website?",
+      "answer": "Please contact our customer-care team for additional information regarding products, prices, availability, delivery, or services.",
+      "search_variations": []
+    },
+    {
+      "id": "support_06",
+      "category": "Customer / Showroom Support",
+      "question": "Are all your products available for display in the showroom?",
+      "answer": "Display availability may vary depending on our current collection and showroom space.",
+      "search_variations": []
+    },
+    {
+      "id": "support_07",
+      "category": "Customer / Showroom Support",
+      "question": "Do you provide after-sales service?",
+      "answer": "Yes, after-sales support may be available for applicable products and services, subject to the relevant terms and warranty conditions.",
+      "search_variations": []
+    },
+    {
+      "id": "support_08",
+      "category": "Customer / Showroom Support",
+      "question": "What payment methods do you accept?",
+      "answer": "We may accept cash, UPI, debit/credit cards, and other available payment methods.",
+      "search_variations": []
+    },
+    {
+      "id": "support_09",
+      "category": "Customer / Showroom Support",
+      "question": "How can I register a complaint?",
+      "answer": "You can register a complaint by contacting our customer-care team through phone, WhatsApp, email, or by visiting the showroom.",
+      "search_variations": []
+    },
+    {
+      "id": "additional_01",
+      "category": "Additional Useful FAQs",
+      "question": "Can I exchange my old furniture for a new one?",
+      "answer": "Old furniture exchange or buyback may be available under selected schemes. Eligibility and valuation depend on the condition of the furniture and applicable terms.",
+      "search_variations": [
+        "do you buy old furniture",
+        "can I exchange old sofa",
+        "old furniture exchange"
+      ]
+    },
+    {
+      "id": "additional_02",
+      "category": "Additional Useful FAQs",
+      "question": "Do you provide home measurement services?",
+      "answer": "Measurement services may be available for selected products or customized orders, depending on the location and requirements.",
+      "search_variations": [
+        "do you measure at home",
+        "can someone visit for measurements"
+      ]
+    },
+    {
+      "id": "additional_03",
+      "category": "Additional Useful FAQs",
+      "question": "Do you offer different fabric options for sofas?",
+      "answer": "Yes, selected sofa models may be available with a variety of fabric options.",
+      "search_variations": []
+    },
+    {
+      "id": "additional_04",
+      "category": "Additional Useful FAQs",
+      "question": "Can I purchase a mattress along with my furniture?",
+      "answer": "Yes, mattress options may be available. Please contact our showroom team for available models and details.",
+      "search_variations": []
+    },
+    {
+      "id": "additional_05",
+      "category": "Additional Useful FAQs",
+      "question": "How can I find out about your latest offers?",
+      "answer": "You can check our website and social media pages or contact our showroom team for the latest offers and promotions.",
+      "search_variations": [
+        "where can I see offers",
+        "do you have discounts",
+        "how do I know latest promotions"
+      ]
+    },
+    {
+      "id": "additional_06",
+      "category": "Additional Useful FAQs",
+      "question": "What condition must the product be in for an exchange?",
+      "answer": "The product may need to be unused, undamaged, and in its original condition, subject to our exchange policy.",
+      "search_variations": []
+    }
+  ]
+}
